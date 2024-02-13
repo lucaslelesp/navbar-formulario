@@ -1,0 +1,37 @@
+@charset "UTF-8";
+
+@font-face {
+    font-family: 'poppinsblack';
+    src: url('../components/fontes/Poppins-Black.ttf')
+
+}
+
+@font-face {
+    font-family: 'poppinssemibold';
+    src: url('../components/fontes/Poppins-SemiBold.ttf')
+
+}
+
+@font-face {
+    font-family: 'poppinsbold';
+    src: url('../components/fontes/Poppins-Bold.ttf')
+
+}
+
+@font-face {
+    font-family: 'poppinsextra-bold';
+    src: url('../components/fontes/Poppins-ExtraBold.ttf')
+
+}
+
+@font-face {
+    font-family: 'poppinslight';
+    src: url('../components/fontes/Poppins-Light.ttf')
+
+}
+
+@font-face {
+    font-family: 'poppinsmedium';
+    src: url('../components/fontes/Poppins-Medium.ttf')
+
+}
